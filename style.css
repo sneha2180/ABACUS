@@ -14,7 +14,15 @@ input{
     width: 400px;
     padding-bottom: 40px;
 }
-
+.button1{
+    width:130px;
+    height: 40px;
+    margin: 10px;
+    font-size: 20px;
+    position: absolute;
+    left: 1300px;
+    top: 20px;
+}
 button{
     font-size: 40px;
     background: #B1B3B3FF;
